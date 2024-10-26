@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KoloKush
+- 👋 Hi, I’m @ymgfijiwtr
 - 👀 I’m interested in Siemens and Allen Bradley PLCs
 - 🌱 I’m currently learning Github, Python, C, C++, Structured Text, JS, HTML, Ladder Logic
 - 💞️ I’m looking to collaborate on Rapsberry Pi Python OOP Projects
